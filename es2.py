@@ -1,5 +1,5 @@
-# realizzare un programma che dati due dizionari ne crei un terzo in cui i valori delle chiavi in comune siano fusi in
-# una lista
+# Realizzare un programma che dati due dizionari ne crei un terzo
+# in cui i valori delle chiavi in comune siano fusi in una lista
 
 diz1 = {'marca': 'Fiat', 'anno': 2005}
 diz2 = {'marca': 'Opel', 'proprietario': 'Musta'}

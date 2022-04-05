@@ -32,10 +32,10 @@ print('dictionary[\'alimentazione\']:', dictionary['alimentazione'])
 listaDictionary = [{
     'macchina': "V15",
     'autista': 'Musta'
-    },
+},
     {'macchina': 'V25',
      'autista': 'Gibbo'
-    }]
+     }]
 print("Lista di dictionary:", listaDictionary)
 
 # stampa ogni dictionary della lista
@@ -51,7 +51,7 @@ print("Lista interna al dictionary:", dictionary['optional'])
 listaDictionaryConLista = [{
     'marca': 'Opel',
     'optional': ['clima', 'sedili in pelle']
-    },
+},
     {'marca': 'Suzuki',
      'optional': ['turbo', 'mod. eco']
      }]
