@@ -1,9 +1,9 @@
 # Realizzare un programma “registro” che permetta di manipolare un semplice registro di voti di studenti
 
 # dizionario di tre studenti
-s1 = {'Nome': 'Mostafa', 'Cognome': 'Abou Kelila', 'Voti': [25, 30, 18]}
-s2 = {'Nome': 'Martina', 'Cognome': 'Spaggiari', 'Voti': [29, 27, 22]}
-s3 = {'Nome': 'Simone', 'Cognome': 'Farini', 'Voti': [26, 30, 19]}
+s1 = {'Mostafa-AbouKelila': [25, 30, 18]}
+s2 = {'Martina-Spaggiari': [29, 27, 22]}
+s3 = {'Simone-Farini': [26, 30, 19]}
 
 # registro di dizionari
 reg = [s1, s2, s3]
